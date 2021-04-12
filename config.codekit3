@@ -21,6 +21,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/section-1\/Section-1-Image.jpg" : {
+      "ft" : 16384,
+      "iS" : 1387673,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-1\/Section-1-Image.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/dev\/content\/Heading-1.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -77,11 +90,19 @@
       "oAP" : "\/dev\/content\/section-4.html",
       "oF" : 0
     },
+    "\/dev\/content\/section-5.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/section-5.html",
+      "oF" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
