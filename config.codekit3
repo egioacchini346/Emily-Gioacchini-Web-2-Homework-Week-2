@@ -21,11 +21,11 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/header\/header logo.png" : {
+    "\/deploy\/img\/header\/header-logo.png" : {
       "ft" : 32768,
       "iS" : 3572,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/header\/header logo.png",
+      "oAP" : "\/deploy\/img\/header\/header-logo.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -43,6 +43,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/Badge-Checker-Circle-Image.png" : {
+      "ft" : 32768,
+      "iS" : 26506,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-2\/Badge-Checker-Circle-Image.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/section-2\/Beach-Badge-Circle-Image.png" : {
+      "ft" : 32768,
+      "iS" : 23592,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section-2\/Beach-Badge-Circle-Image.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -149,6 +175,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
+      "oF" : 0
+    },
+    "\/dev\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/index.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
