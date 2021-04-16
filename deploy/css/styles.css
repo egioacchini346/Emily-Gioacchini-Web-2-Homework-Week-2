@@ -352,31 +352,8 @@ template {
 /* =============
     Base
 ============= */
-figure {
-  margin: 0;
-  padding: 0;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-}
-ul li {
-  list-style: none;
-}
-
-.content {
-  margin-bottom: 24px;
-}
-@media (min-width: 768px) {
-  .content {
-    margin-bottom: 32px;
-  }
-}
-@media (min-width: 1200px) {
-  .content {
-    margin-bottom: 64px;
-  }
+h1, h2 {
+  font-family: "Amaranth", sans-serif;
 }
 
 /* =============
