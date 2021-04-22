@@ -352,8 +352,12 @@ template {
 /* =============
     Base
 ============= */
-h1, h2 {
-  font-family: "Amaranth", sans-serif;
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style: none;
 }
 
 /* =============
@@ -371,9 +375,30 @@ h1, h2 {
 /* =============
     Header
 ============= */
+header {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". header .";
+}
+header > div {
+  grid-area: header;
+}
+
 /* =============
     Footer
 ============= */
+/* =============
+    Navigation
+============= */
+#navigation {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". navigation .";
+}
+#navigation > div {
+  grid-area: navigation;
+}
+
 #section-1 img {
   width: 100%;
 }
