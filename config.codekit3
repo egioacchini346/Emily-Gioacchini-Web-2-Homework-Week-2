@@ -185,6 +185,14 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
+    "\/deploy\/section-7.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/section-7.html",
+      "oF" : 0
+    },
     "\/design\/Emily-Gioacchini-Sea-Girt-Beach.sketch" : {
       "cB" : 0,
       "ft" : 8192,
@@ -261,7 +269,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
     },
@@ -563,6 +571,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/sections\/_section-6.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_section-7.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_section-7.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
