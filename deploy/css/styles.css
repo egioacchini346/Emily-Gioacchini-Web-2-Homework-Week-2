@@ -399,10 +399,16 @@ header > div {
   grid-area: navigation;
 }
 
+/* =============
+    section-1
+============= */
 #section-1 img {
   width: 100%;
 }
 
+/* =============
+    section-2
+============= */
 #section-2 img {
   width: 100%;
 }
@@ -413,4 +419,29 @@ header > div {
 }
 #section-2 ul li a {
   grid-area: section-2-content;
+}
+
+/* =============
+    section-3
+============= */
+#section-3 ul li {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". section-3-content .";
+}
+#section-3 ul li div {
+  grid-area: section-3-content;
+}
+
+/* =============
+    section-4
+============= */
+#section-4 ul {
+  display: grid;
+}
+#section-4 ul li img {
+  width: 100%;
+}
+#section-4 ul #section-4-3 {
+  display: none;
 }
