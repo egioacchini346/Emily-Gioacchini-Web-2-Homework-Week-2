@@ -257,6 +257,14 @@
       "oAP" : "\/dev\/content\/section-6.html",
       "oF" : 0
     },
+    "\/dev\/content\/section-7.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 2
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
