@@ -1,0 +1,18 @@
+#section-2{
+
+    img{
+        width: 100%;
+    } 
+
+    ul{
+        li{
+            display: grid;
+            grid-template-columns: 16px auto 16px;
+            grid-template-areas: ". section-2-content ."; 
+            a{
+                grid-area: section-2-content;
+            }
+        }
+
+    }
+}

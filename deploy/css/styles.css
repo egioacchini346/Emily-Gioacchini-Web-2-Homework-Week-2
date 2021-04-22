@@ -377,3 +377,15 @@ h1, h2 {
 #section-1 img {
   width: 100%;
 }
+
+#section-2 img {
+  width: 100%;
+}
+#section-2 ul li {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". section-2-content .";
+}
+#section-2 ul li a {
+  grid-area: section-2-content;
+}
