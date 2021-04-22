@@ -387,6 +387,15 @@ header > div {
 /* =============
     Footer
 ============= */
+footer {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". footer .";
+}
+footer > div {
+  grid-area: footer;
+}
+
 /* =============
     Navigation
 ============= */
@@ -444,4 +453,19 @@ header > div {
 }
 #section-4 ul #section-4-3 {
   display: none;
+}
+
+/* =============
+    section-5
+============= */
+#section-5 ul li img {
+  width: 100%;
+}
+#section-5 ul section {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". section-5-content .";
+}
+#section-5 ul section div {
+  grid-area: section-5-content;
 }
