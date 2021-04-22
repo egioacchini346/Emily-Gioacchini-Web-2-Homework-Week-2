@@ -1,19 +1,21 @@
 /* =============
     section-5
 ============= */
-#section-5{
-    ul{
-        li{
-            img{
+#section-5 {
+    ul {
+        li {
+            img {
                 width: 100%;
             }
 
-        }   section{
+        }
+
+        section {
             display: grid;
             grid-template-columns: 16px auto 16px;
-            grid-template-areas: ". section-5-content ."; 
+            grid-template-areas: ". section-5-content .";
 
-            div{
+            div {
                 grid-area: section-5-content;
             }
         }

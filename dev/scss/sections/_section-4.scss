@@ -1,16 +1,17 @@
 /* =============
     section-4
 ============= */
-#section-4{
-    ul{
+#section-4 {
+    ul {
         display: grid;
-        li{
-            img{
-                width: 100%; 
+
+        li {
+            img {
+                width: 100%;
             }
         }
 
-        #section-4-3{
+        #section-4-3 {
             display: none;
         }
     }
