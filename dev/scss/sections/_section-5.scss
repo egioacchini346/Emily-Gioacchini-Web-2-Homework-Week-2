@@ -22,4 +22,11 @@
 
     }
 
+    @include md {
+        grid-template-ares: auto 768px auto;
+    }
+
+    @include lg {
+        grid-template-ares: auto 1024px auto;
+    }
 }
