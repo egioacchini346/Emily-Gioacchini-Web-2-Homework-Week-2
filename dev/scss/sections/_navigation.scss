@@ -9,4 +9,20 @@
     >div {
         grid-area: navigation;
     }
+
+    @include sm {
+        grid-template-ares: auto 576px auto;
+    }
+
+    @include md {
+        grid-template-ares: auto 768px auto;
+    }
+
+    @include lg {
+        grid-template-ares: auto 1024px auto;
+    }
+
+    @include xl {
+        grid-template-ares: auto 1200px auto;
+    }
 }

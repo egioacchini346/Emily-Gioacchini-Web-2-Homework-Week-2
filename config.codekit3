@@ -300,8 +300,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_base.css",
-      "oF" : 0,
+      "oAP" : "\/dev\/scss\/styles.scss",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
