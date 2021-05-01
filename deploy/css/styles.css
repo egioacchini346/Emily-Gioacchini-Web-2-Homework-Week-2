@@ -352,19 +352,12 @@ template {
 /* =============
     Base
 ============= */
-ul {
+#base ul {
   margin: 0;
   padding: 0;
 }
-ul li {
+#base ul li {
   list-style: none;
-}
-ul header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
 }
 
 /* =============
@@ -389,13 +382,6 @@ header {
 }
 header > div {
   grid-area: header;
-}
-header header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
 }
 
 /* =============
@@ -447,6 +433,13 @@ footer > div {
 /* =============
     section-3
 ============= */
+#section-3 {
+  background-color: #94C0CB;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
 #section-3 ul li {
   display: grid;
   grid-template-columns: 16px auto 16px;
