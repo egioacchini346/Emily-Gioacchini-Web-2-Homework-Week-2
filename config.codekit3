@@ -73,12 +73,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-4\/gazebo-image.jpg" : {
+    "\/deploy\/img\/section-3\/gazebo-image.jpg" : {
       "ft" : 16384,
       "iS" : 293065,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-4\/gazebo-image.jpg",
+      "oAP" : "\/deploy\/img\/section-3\/gazebo-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -86,12 +86,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-4\/pavilion-image.jpg" : {
+    "\/deploy\/img\/section-3\/pavilion-image.jpg" : {
       "ft" : 16384,
       "iS" : 289217,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-4\/pavilion-image.jpg",
+      "oAP" : "\/deploy\/img\/section-3\/pavilion-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -99,12 +99,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-4\/sand-image.jpg" : {
+    "\/deploy\/img\/section-3\/sand-image.jpg" : {
       "ft" : 16384,
       "iS" : 1066649,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-4\/sand-image.jpg",
+      "oAP" : "\/deploy\/img\/section-3\/sand-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -112,12 +112,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/sea-girt-lifeguards-image.jpg" : {
+    "\/deploy\/img\/section-4\/sea-girt-lifeguards-image.jpg" : {
       "ft" : 16384,
       "iS" : 62483,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/sea-girt-lifeguards-image.jpg",
+      "oAP" : "\/deploy\/img\/section-4\/sea-girt-lifeguards-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -125,12 +125,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/sea-girt-lighthouse-image.jpg" : {
+    "\/deploy\/img\/section-4\/sea-girt-lighthouse-image.jpg" : {
       "ft" : 16384,
       "iS" : 79486,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/sea-girt-lighthouse-image.jpg",
+      "oAP" : "\/deploy\/img\/section-4\/sea-girt-lighthouse-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -138,12 +138,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/the-parker-house-image.jpg" : {
+    "\/deploy\/img\/section-4\/the-parker-house-image.jpg" : {
       "ft" : 16384,
       "iS" : 81750,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/the-parker-house-image.jpg",
+      "oAP" : "\/deploy\/img\/section-4\/the-parker-house-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -151,12 +151,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/tide-trackers-&-tide-charts-image.jpg" : {
+    "\/deploy\/img\/section-4\/tide-trackers-&-tide-charts-image.jpg" : {
       "ft" : 16384,
       "iS" : 96654,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/tide-trackers-&-tide-charts-image.jpg",
+      "oAP" : "\/deploy\/img\/section-4\/tide-trackers-&-tide-charts-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -164,12 +164,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/section-5\/wildlife-&-endangered-species-image.jpg" : {
+    "\/deploy\/img\/section-4\/wildlife-&-endangered-species-image.jpg" : {
       "ft" : 16384,
       "iS" : 75446,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/section-5\/wildlife-&-endangered-species-image.jpg",
+      "oAP" : "\/deploy\/img\/section-4\/wildlife-&-endangered-species-image.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -193,12 +193,12 @@
       "oAP" : "\/design\/Emily-Gioacchini-Sea-Girt-Beach.sketch",
       "oF" : 0
     },
-    "\/dev\/content\/Navigation.kit" : {
+    "\/dev\/content\/navigation.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/Navigation.html",
+      "oAP" : "\/dev\/content\/navigation.html",
       "oF" : 0
     },
     "\/dev\/content\/section-1.kit" : {
@@ -231,14 +231,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/section-4.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/section-5.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/section-5.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -497,20 +489,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/sections\/_section-4.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_section-5.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-5.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

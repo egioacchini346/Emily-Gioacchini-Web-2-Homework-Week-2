@@ -3,20 +3,35 @@
 ============= */
 #section-2 {
 
-    img {
-        width: 100%;
+    @include md{
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". section-3 .";
     }
 
-    ul {
-        li {
-            display: grid;
-            grid-template-columns: 16px auto 16px;
-            grid-template-areas: ". section-2-content .";
+    @include xl{
+        grid-template-columns: auto 1000px auto;
+    }
 
-            a {
-                grid-area: section-2-content;
-            }
+    ul{
+        display: grid;
+        gap:16px;
+
+        @include md{
+            grid-template-columns: 50% auto;
+            gap:24px;
+            grid-area: section-3;
         }
 
+        li{
+            display: grid;
+            grid-template-columns: 16px auto 16px;
+            grid-template-areas: ". section-3-content .";
+            background-color: $grey;
+
+            >div{
+                grid-area: section-3-content; 
+            }
+        }
     }
 }

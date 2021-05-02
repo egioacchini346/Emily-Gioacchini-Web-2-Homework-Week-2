@@ -2,18 +2,18 @@
     section-3
 ============= */
 #section-3 {
-
     ul {
-        li {
-            display: grid;
-            grid-template-columns: 16px auto 16px;
-            grid-template-areas: ". section-3-content .";
+        display: grid;
 
-            div {
-                grid-area: section-3-content;
+        li {
+            img {
+                width: 100%;
             }
         }
 
+        #section-4-3 {
+            display: none;
+        }
     }
-    
+
 }
